@@ -1,2 +1,3 @@
-# aoc2021
-i am making this because i need something to do while i'm at a hotel on a shitass laptop (and also i want to code more)
+# Advent of Code 2021
+
+I'm doing this because I'm bored. I know AoC 2022 starts in a few days, but I just wanted something to code in the meantime.
