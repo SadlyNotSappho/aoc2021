@@ -17,5 +17,5 @@ fn main() {
 
     let read = read_to_string(path).unwrap();
 
-    aoc2021::day1::part2(read);
+    aoc2021::day2::part1(read);
 }
